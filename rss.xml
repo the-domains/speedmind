@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[speedmind]]></title>
         <description><![CDATA[speedmind]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/speedmind/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 10:22:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 10:53:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/speedmind/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nvidia's new graphics cards are a big deal]]></title>
+            <description><![CDATA[<article><h1>Nvidia's new graphics cards are a big deal</h1><p>The hotly anticipated Nvidia GeForce GTX 1080 is now official, marking a major leap in performance and efficiency with the introduction of the new Pascal architecture. How major? Take the ultra beefy and expensive Titan X graphics card from last year, slice its power demands from 250W to 180W, cut its price from $999 to $599, and then throw in a bit more performance on top.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeeb83eb2d7c1b8e24dc081cfc6fdaf9f32981e5.jpg"></article>]]></description>
+            <link>http://www.theverge.com/circuitbreaker/2016/5/7/11615806/nvidia-gtx-1080-1070-pascal-specs-price-release-date</link>
+            <guid isPermaLink="false">0d1cd677-9533-453a-a90b-b90e43d45de5</guid>
+            <pubDate>Mon, 09 May 2016 10:53:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miniatur Wunderland is a jaw-dropping sight for kids young and old]]></title>
-            <description><![CDATA[<article><h1>Miniatur Wunderland is a jaw-dropping sight for kids young and old</h1><p>On a road trip across Germany earlier this year, my wife and I made a four-hour detour to visit Miniatur Wunderland. It's Hamburg's most popular tourist attraction and it was, without question, worth the trip. Miniatur Wunderland is the Guinness Book of World Records-certified largest model railroad in the world, with more than 150 staff.</p><img src="https://cdn3.vox-cdn.com/thumbor/T7BIhWOd9TfKWoQU1sZUCK-AXqI=/0x204:2039x1351/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49546383/DSC_4052-marked.0.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Miniatur Wunderland is a jaw-dropping sight for kids young and old</h1><p>On a road trip across Germany earlier this year, my wife and I made a four-hour detour to visit Miniatur Wunderland. It's Hamburg's most popular tourist attraction and it was, without question, worth the trip. Miniatur Wunderland is the Guinness Book of World Records-certified largest model railroad in the world, with more than 150 staff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafd5a84cc5d58234fdc5a028bd79a77e040a47f.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/5/8/11635012/miniatur-wunderland-model-railway-hamburg-germany</link>
             <guid isPermaLink="false">40242c7b-b426-45a0-b356-0fc1c469fb16</guid>
             <pubDate>Mon, 09 May 2016 10:21:50 GMT</pubDate>
