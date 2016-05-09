@@ -1,0 +1,28 @@
+name: speedmind
+favicon: null
+layout_spectrum: 0.8200812968425453
+typography_spectrum: 0.9796759309247136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7711352270562202
+  lightness: 0.8051338398363441
+  saturation: 0.7061369870789349
+  rhythmicContrast: 0.7631010927725583
+purpose: []
