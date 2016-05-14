@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Ashok Goel, a computer science professor at Georgie Institute of Technology, recently pulled a huge prank on his students: he gave them a robot for a teaching assistant. "Jill Watson" did regular TA work, like remind students of due dates and answer questions, all over email.'
-datePublished: '2016-05-14T15:33:38.064Z'
-dateModified: '2016-05-14T15:32:53.060Z'
+datePublished: '2016-05-14T15:36:00.741Z'
+dateModified: '2016-05-14T15:33:46.404Z'
 title: "Professor Pranksman fools his students with a TA powered by IBM's Watson"
 author:
   - name: Paul Miller
